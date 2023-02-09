@@ -1,6 +1,9 @@
-<h1 align="center" color="orange">#Welcome to my profile 👋</h1>
+<h1 align="start" color="white">#Welcome to my profile 👋</h1>
+<p>I'm Yuran Simão, I'm from Angola, I'm a Front-end developer, I'm a technology lover, I like to learn about it, solve problems and take on challenges.<br>
+Hope you like my profile...</p>
 
-<div align="center">
+<h1 align="start">Contributions</h1>
+<div align="center" padding="64">
   <a href="https://github.com/yuransimao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuransimao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuransimao&layout=compact&langs_count=7&theme=dark"/>
