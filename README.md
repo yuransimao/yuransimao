@@ -1,6 +1,6 @@
 <h1 align="start" color="white">#Welcome to my profile 👋</h1>
-<p>I'm Yuran Simão, I'm from Angola, I'm a Front-end developer, I'm a technology lover, I like to learn about it, solve problems and take on challenges.<br>
-Hope you like my profile...</p>
+<p>I'm Yuran Simão, I'm from Angola, I'm a Front-end developer at the <a href="https://expressers.ao/" target="_blank" title="Expressers">expressers.ao</a> group, I'm a lover of technology, I like learning about it, solving problems and taking on challenges.
+I hope you like my profile...</p></p>
 
 <h1 align="start">Contributions</h1>
 <div align="center" padding="64">
